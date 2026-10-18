@@ -1,4 +1,9 @@
-# Phishing para captura de senhas do Facebook
+## Antes de mais nada, algumas resalvas:
+### - O curso está desatualizado, algumas ferramentas, métodos e modelos ensinados estão obsoletos.
+### - Para concluir o desafio pede a clonagem do Facebook, mas hoje em dia o mesmo não é possível clonar pelo setoolkit.
+### - Por conta dos imprevistos, escolhi outro site para clonar, a página de login do linkedin(apenas para fins de estudo).
+
+# Phishing para captura de senhas do Linkedin
 
 ### Ferramentas
 
@@ -14,7 +19,7 @@
 - Método de ataque: ```Credential Harvester Attack Method ```
 - Método de ataque: ``` Site Cloner ```
 - Obtendo o endereço da máquina: ``` ifconfig ```
-- URL para clone: http://www.facebook.com
+- URL para clone: http://www.linkedin.com/login
 
 ### Resutados
 
