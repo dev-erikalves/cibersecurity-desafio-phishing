@@ -1,4 +1,4 @@
-## Antes de mais nada, algumas resalvas:
+## Antes de mais nada, algumas ressalvas:
 ### - O curso está desatualizado, algumas ferramentas, métodos e modelos ensinados estão obsoletos.
 ### - Para concluir o desafio pede a clonagem do Facebook, mas hoje em dia o mesmo não é possível clonar pelo setoolkit.
 ### - Por conta dos imprevistos, escolhi outro site para clonar, a página de login do linkedin(apenas para fins de estudo).
